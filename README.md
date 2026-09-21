@@ -49,16 +49,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIRANJAN-KUNAPANENI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D14" height="155" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRANJAN-KUNAPANENI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D14" height="155" alt="Languages" />
-</div>
-
----
 
 <div align="center">
   <sub>Designed with focus on engineering, automation, and distributed systems.</sub>
